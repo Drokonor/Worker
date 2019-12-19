@@ -1,0 +1,22 @@
+{
+  "name": "worker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Drokonor/Worker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Drokonor/Worker/issues"
+  },
+  "homepage": "https://github.com/Drokonor/Worker#readme",
+  "dependencies": {
+    "mongoose": "^5.8.1"
+  }
+}
